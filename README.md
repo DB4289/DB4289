@@ -12,6 +12,10 @@
 
 ⚡ Fun fact: I'm neurodivergent, and I embrace the unique perspectives and strengths it brings to my work and life.
 
+Project I've worked on:
+https://github.com/Gr-24-06/OmegaNews
+https://omeganews-hudvf7f9c2c4f7br.swedencentral-01.azurewebsites.net/
+
 <!---
 DB4289/DB4289 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
